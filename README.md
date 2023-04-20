@@ -1,6 +1,5 @@
 # C++20 Modules with CLion on Mac
-by Gaelan McMillan
-Apr 20, 2023
+Last Updated: Apr 20, 2023
 
 ## Requirements
 - Clang >= 16 (`brew install llvm`)
